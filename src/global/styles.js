@@ -37,6 +37,10 @@ time, mark, audio, video {
 	vertical-align: baseline;
 };
 
+#root, html,body{
+	height: 100vh;
+};
+
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
@@ -60,5 +64,13 @@ table {
 	border-spacing: 0;
 }
     
+a{
+	text-decoration: none;
+}
 
+button{
+	border: none;
+	background: none;
+	cursor: pointer;
+}
 `;
