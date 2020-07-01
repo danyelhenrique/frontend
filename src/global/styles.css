@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "DN pro DN Pro";
+  src: url("../assets/fonts/DNProBold.otf");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "DN pro DN Pro";
+  src: url("../assets/fonts/DN\ ProSemiBold.otf");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "DN pro DN Pro";
+  src: url("../assets/fonts/DNProMedium.otf");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "DN pro DN Pro";
+  src: url("../assets/fonts/DN\ ProRegular.otf");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "DN pro DN Pro";
+  src: url("../assets/fonts/DN\ ProThin.otf");
+  font-weight: 300;
+}
