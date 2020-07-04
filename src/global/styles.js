@@ -39,6 +39,8 @@ time, mark, audio, video {
 
 #root, html,body{
 	height: 100vh;
+	background: #121212;
+
 };
 
 article, aside, details, figcaption, figure, 

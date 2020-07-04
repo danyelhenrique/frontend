@@ -3,15 +3,16 @@ import { Switch } from "react-router-dom";
 import Route from "./Route";
 
 import Dashboard from "../pages/Dashboard";
+import Sigin from "../pages/Sigin";
+import SignOut from "../pages/SignOut";
 
-function AA() {
-  return <h1>ola</h1>;
-}
 function Routes() {
   return (
     <Switch>
-      <Route component={Dashboard} path="/" />
-      <Route component={AA} path="/singin" />
+      <Route component={Dashboard} path="/" exact />
+      <Route component={Sigin} path="/singin" />
+      <Route component={SignOut} path="/register" />
+      <Route component={SignOut} path="/profile" />
     </Switch>
   );
 }

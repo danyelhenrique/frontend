@@ -1,9 +1,11 @@
 import React from "react";
 
-// import { Container } from './styles';
+import { Wrapper, Content } from "./styles";
 
-function auth({ children }) {
-  return <div> {children}</div>;
+export default function AuthtLayout({ children }) {
+  return (
+    <Wrapper>
+      <Content>{children}</Content>
+    </Wrapper>
+  );
 }
-
-export default auth;
