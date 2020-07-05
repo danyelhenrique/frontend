@@ -61,3 +61,13 @@ clone o repositório do frontend em https://github.com/danyelhenrique/frontend
 ````cd frontend````
 ````npm install````
 ````npm start````
+
+possiveis ateraçoes para melhorar o projeto :
+
+[ ] websockets para realtime quando um usuario bater o ponto
+
+[ ] buguer menu  para melhor visualiação no mobile
+
+[ ] search usuario por nome
+
+[ ] listar por filter ultimos 30 dias ou até um ano
