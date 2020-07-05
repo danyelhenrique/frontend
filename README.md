@@ -64,13 +64,14 @@ clone o repositório do frontend em https://github.com/danyelhenrique/frontend
 
 possiveis ateraçoes para melhorar o projeto :
 
-[ ] websockets para realtime quando um usuario bater o ponto
+[ ] websockets para realtime quando um usuario bater o ponto.
 
-[ ] buguer menu  para melhor visualiação no mobile
+[ ] buguer menu  para melhor visualiação no mobile.
 
-[ ] search usuario por nome
+[ ] search usuario por nome.
 
-[ ] listar por filtros ex: ultimos 30 dias ou até um ano
+[ ] listar por filtros ex: ultimos 30 dias ou até um ano.
 
-[ ] Melhor erro handle nem todos os erros foram tratados muitos foram suprimidos
-[ ] melhor Ui para o usuario nem todas as açoes a serem feitas são tão obvias
+[ ] Melhor erro handle nem todos os erros foram tratados muitos foram suprimidos.
+
+[ ] melhor Ui para o usuario nem todas as açoes a serem feitas são tão obvias.
