@@ -71,3 +71,6 @@ possiveis ateraçoes para melhorar o projeto :
 [ ] search usuario por nome
 
 [ ] listar por filtros ex: ultimos 30 dias ou até um ano
+
+[ ] Melhor erro handle nem todos os erros foram tratados muitos foram suprimidos
+[ ] melhor Ui para o usuario nem todas as açoes a serem feitas são tão obvias
