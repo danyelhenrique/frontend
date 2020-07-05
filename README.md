@@ -70,4 +70,4 @@ possiveis ateraçoes para melhorar o projeto :
 
 [ ] search usuario por nome
 
-[ ] listar por filter ultimos 30 dias ou até um ano
+[ ] listar por filtros ex: ultimos 30 dias ou até um ano
