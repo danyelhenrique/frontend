@@ -51,12 +51,13 @@ Axios -> Client Http.
     put / schedules -> bater outros pontos do dia como almoço, saida do trabalhado etc.
     body(date! , entry?, lunch?, lunch_end?, exit?)
 
-clone o repositório do backend em https://github.com/danyelhenrique/backend/
-````cd backend````
-```npm install````
-````npm run dev````
 
-clone o repositio do frontend em https://github.com/danyelhenrique/frontend
+clone o repositório do backend em https://github.com/danyelhenrique/backend
+```cd backend```
+```npm install```
+```npm run dev```
+
+clone o repositório do frontend em https://github.com/danyelhenrique/frontend
 ````cd frontend````
 ````npm install````
 ````npm start````
